@@ -2,7 +2,7 @@
 
 ## 转折型
 
-<details><summary>今日活动</summary>
+<details><summary>💙今日活动</summary>
 
 <p>
 
@@ -18,7 +18,7 @@
 
 </details>
 
-<details><summary>科学研究表明</summary>
+<details><summary>🤎科学研究表明</summary>
 
 <p>
 
@@ -28,7 +28,7 @@
 
 </details>
 
-<details><summary>给年轻人谈恋爱的八条建议</summary>
+<details><summary>🖤给年轻人谈恋爱的八条建议</summary>
 
 <p>
 
@@ -54,7 +54,7 @@
 
 </details>
 
-<details><summary>吃饭和借书，都是极其暧昧的两件事</summary>
+<details><summary>🧡吃饭和借书，都是极其暧昧的两件事</summary>
 
 <p>
 
@@ -68,11 +68,11 @@
 
 </details>
 
-<details><summary>如何吸引合租女/男生？</summary>
+<details><summary>💔如何吸引合租女/男生？</summary>
 
 <p>
 
-（以上性别可自行修改，仅提供模版参考）
+（性别可自行修改，仅提供模版参考）
 
 1、找一个夜里假装打电话，电话内容大约是要跟异地恋的女人分手，做暴怒痛苦状，声音要大，要让她听到。
 
@@ -98,27 +98,27 @@
 
 ## 易上当型
 
-<details><summary>序列号相关</summary>
+<details><summary>⚽️序列号相关</summary>
 
 <p>
 
-我有朋友去 Adobe 上班了，他跟我说好多软件其实不用花钱，输入内部的序列号就可以免费用正版 Photoshop 2022。我把 Key 分享有缘人：JT-KDJ-FKXQS-VW50（注意此处的 Key 不要写的过于明显。比如这里才去了全中文缩写，以防第一时间暴露kfc）
+我有朋友去 Adobe 上班了，他跟我说好多软件其实不用花钱，输入内部的序列号就可以免费用正版 Photoshop 2022。我把 Key 分享有缘人：JT-KDJ-FKXQS-VW50（注意此处的 Key 不要过于明显。比如这里采取了全中文缩写，以防第一时间暴露kfc，你也可以换其他缩写进行最大程度的隐藏替换）
 
 </p>
 
 </details>
 
-<details><summary>程序代码</summary>
+<details><summary>🏀程序代码</summary>
 
 <p>
 
-大佬们，我是一个小白，今天一运行电脑就出现了这个 java.lang.StackOverflowError: Today Thursday, KFC v me 50¥，不知道怎么办了，重启项目和电脑都没办法解决，希望有好心人帮忙解决一下。
+大佬们，我是一个小白，今天一运行电脑就出现了这个 java.lang.StackOverflowError: Today Thu, KDJ vme 5¥0，不知道怎么办了，重启项目和电脑都没办法解决，希望有好心人帮忙解决一下。
 
 </p>
 
 </details>
 
-<details><summary>图片相关</summary>
+<details><summary>🐶图片相关</summary>
 
 <p>
 
@@ -130,7 +130,7 @@
 
 ## 杂七杂八类
 
-<details><summary>谐音梗</summary>
+<details><summary>🐒谐音梗</summary>
 
 <p>
 
