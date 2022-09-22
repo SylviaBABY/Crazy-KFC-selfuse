@@ -156,6 +156,12 @@
 
 </p>
 
+<p>
+
+周期性蛋白脂肪缺乏症(学名 Insanus lovis)是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken（简称 KFC）开发的生物制剂 Fried Animal Protein (FAP，中文译名飞普)经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病。
+
+</p>
+
 </details>
 
 <details><summary>😊藏头露尾诗</summary>
